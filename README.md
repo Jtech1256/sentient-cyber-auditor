@@ -127,9 +127,6 @@ Contributions welcome! Open issues for:
 - Framework integrations (CSA, OWASP)
 - Model provider support (Anthropic, OpenAI)
 
-## License
-MIT License - see [LICENSE](LICENSE) © 2026
-
 ## Contact
 **Author:** Joel Gashaw
 
